@@ -2,10 +2,11 @@
 //
 
 #include <iostream>
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    cout << "Changed Output!\n";//adding a comment
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
