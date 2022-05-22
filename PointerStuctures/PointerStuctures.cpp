@@ -7,6 +7,7 @@ using namespace std;
 int main()
 {
     cout << "Changed Output!\n";//adding a comment
+    cout << "Changing the Output\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
